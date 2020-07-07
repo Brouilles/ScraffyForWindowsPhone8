@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsPhone8</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/Button/creditButtonTexture.png</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/Button/playButtonTexture.png</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/background.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/scraffy.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/foreground-light.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/cloud1.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/cloud2.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/Button/optionButtonTexture.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/Button/scoresButtonTexture.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/ScraffyLogo.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/Credit/background.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/ImpactBig.spritefont</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/ImpactLittle.spritefont</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/Scraffy/frame1.png</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/Scraffy/frame2.png</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/MainMenu/Scraffy/frame3.png</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/InGame/background.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/InGame/middle.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/InGame/Entity/cat.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/loading.png</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/Music/scraffymusic.mp3</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/Credit/aubegaLogo.png</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/GameOver/background.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/GameOver/Button/exit.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/GameOver/Button/restart.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/GUI/GameOver/gameover.jpg</File>
+    <File>C:/Users/Gaëtan/Documents/C#/Visual 2013/ScraffyForWP/ScraffyForWP/Content/InGame/Entity/catDead.png</File>
+  </SourceFiles>
+</SourceFileCollection>

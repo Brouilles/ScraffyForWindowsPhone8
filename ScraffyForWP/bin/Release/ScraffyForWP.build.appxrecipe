@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAETAN-PC</Machine>
+    <WindowsUser>Gaëtan</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2c8d1381-c22a-440a-803c-032e52b1385c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\bin\Release\ScraffyForWP.exe">
+      <PackagePath>ScraffyForWP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone81\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone81\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone81\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone81\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone81\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone81\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone81\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\Credit\aubegaLogo.xnb">
+      <PackagePath>Content\GUI\Credit\aubegaLogo.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\Credit\background.xnb">
+      <PackagePath>Content\GUI\Credit\background.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\GameOver\background.xnb">
+      <PackagePath>Content\GUI\GameOver\background.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\GameOver\Button\exit.xnb">
+      <PackagePath>Content\GUI\GameOver\Button\exit.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\GameOver\Button\restart.xnb">
+      <PackagePath>Content\GUI\GameOver\Button\restart.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\GameOver\gameover.xnb">
+      <PackagePath>Content\GUI\GameOver\gameover.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\background.xnb">
+      <PackagePath>Content\GUI\MainMenu\background.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\Button\creditButtonTexture.xnb">
+      <PackagePath>Content\GUI\MainMenu\Button\creditButtonTexture.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\Button\optionButtonTexture.xnb">
+      <PackagePath>Content\GUI\MainMenu\Button\optionButtonTexture.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\Button\playButtonTexture.xnb">
+      <PackagePath>Content\GUI\MainMenu\Button\playButtonTexture.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\Button\scoresButtonTexture.xnb">
+      <PackagePath>Content\GUI\MainMenu\Button\scoresButtonTexture.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\cloud1.xnb">
+      <PackagePath>Content\GUI\MainMenu\cloud1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\cloud2.xnb">
+      <PackagePath>Content\GUI\MainMenu\cloud2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\foreground-light.xnb">
+      <PackagePath>Content\GUI\MainMenu\foreground-light.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\scraffy.xnb">
+      <PackagePath>Content\GUI\MainMenu\scraffy.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\ScraffyLogo.xnb">
+      <PackagePath>Content\GUI\MainMenu\ScraffyLogo.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\Scraffy\frame1.xnb">
+      <PackagePath>Content\GUI\MainMenu\Scraffy\frame1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\Scraffy\frame2.xnb">
+      <PackagePath>Content\GUI\MainMenu\Scraffy\frame2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\GUI\MainMenu\Scraffy\frame3.xnb">
+      <PackagePath>Content\GUI\MainMenu\Scraffy\frame3.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\ImpactBig.xnb">
+      <PackagePath>Content\ImpactBig.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\ImpactLittle.xnb">
+      <PackagePath>Content\ImpactLittle.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\InGame\background.xnb">
+      <PackagePath>Content\InGame\background.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\InGame\Entity\cat.xnb">
+      <PackagePath>Content\InGame\Entity\cat.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\InGame\Entity\catDead.xnb">
+      <PackagePath>Content\InGame\Entity\catDead.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\InGame\middle.xnb">
+      <PackagePath>Content\InGame\middle.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\loading.xnb">
+      <PackagePath>Content\loading.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\Music\scraffymusic.xnb">
+      <PackagePath>Content\Music\scraffymusic.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\SmallFonts.xnb">
+      <PackagePath>Content\SmallFonts.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\Content\bin\WindowsPhone8\Music\scraffymusic.wma">
+      <PackagePath>Content\Music\scraffymusic.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\bin\Release\GamePage.xbf">
+      <PackagePath>GamePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\bin\Release\ScraffyForWP.xr.xml">
+      <PackagePath>ScraffyForWP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaëtan\Documents\C#\Visual 2013\ScraffyForWP\ScraffyForWP\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
